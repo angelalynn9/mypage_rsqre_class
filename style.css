@@ -1,0 +1,39 @@
+body {
+  padding-top: 50px;
+}
+
+p {
+	max-width: 500px;
+}
+
+.awesomered {
+	color: #ff0066;
+}
+
+.bitchinblue {
+	color: #003366;
+}
+
+.bikebox {
+	background-color: #ffffcc;
+	border: 4px solid black;
+	margin-left: .5cm;
+	max-width: 500px;
+}
+
+.background-hover {
+	opacity: 1;
+}
+
+.backgroundwithbikes {
+	background-image: url("https://thumbs.dreamstime.com/x/vintage-bicycle-seamless-wallpaper-eps-no-transparencies-ideal-prints-33775458.jpg");
+	opacity: .5;
+}
+
+.bullets {
+	list-style-image: url("http://www.slightlyorganized.com/2001/images/xbike.gif");
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
